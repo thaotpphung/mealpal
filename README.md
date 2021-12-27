@@ -10,7 +10,7 @@ Contact thao.tp.phung@gmail.com
 
 ## Project Details 
 
-https://phungthao.com/MealPal-cbbee82a63eb4919a6fc8832f5073bf2
+https://phungthao.com/projects/mealpal
 
 * Features
   * Meal Plans
