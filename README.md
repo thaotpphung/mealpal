@@ -6,6 +6,7 @@ A platform for mealplanning, tracking diets, recipes, and grocery shopping
 
 ## Code
 https://github.com/thaotpphung/mealpal-frontend
+
 https://github.com/thaotpphung/mealpal-backend
 
 ## Project Details 
